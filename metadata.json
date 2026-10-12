@@ -1,0 +1,6 @@
+{
+  "name": "WooMap — Interactive 3D Building Map & Publisher",
+  "description": "Create, edit, and publish 3D buildings on a shared live map with OpenFreeMap and MapLibre GL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
